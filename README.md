@@ -1,1 +1,1 @@
-# this is my [ractice project on power bi to showcase my skill  
+# this is my practice project on power bi to showcase my skill  
